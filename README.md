@@ -15,3 +15,11 @@ This repository contains my **solutions** to various problems from **LeetCode St
 Whether you're a **beginner** looking to get started or an **experienced coder** aiming to refine your skills, this repository provides a structured approach to learning and problem-solving.  
 
 Happy coding! 🚀✨  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Muhammad-Ilyas-Ibrahim/LeetCode-StudyPlans-Solutions/tree/master/0595-big-countries) |
+<!---LeetCode Topics End-->
