@@ -7,7 +7,6 @@ Each solution is implemented with a **clear and structured approach**, ensuring 
 ## **📌 Topics & Problem List**  
 
 ### 📂 **Pandas Data Structures**  
-- **Pandas Data Structures**  
 - **Create a DataFrame from List**  
 
 ### 📂 **Data Inspection**  
