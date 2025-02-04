@@ -1,11 +1,17 @@
 # LeetCode
 
-This repository contains my solutions to LeetCode problems.
+This repository contains my **solutions** to various problems from **LeetCode Study Plans**. Each study plan is designed to strengthen problem-solving skills in specific domains such as **Data Structures, Algorithms, SQL, and Data Science**.  
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+## **🚀 About This Repository**  
+- 📌 **Well-Structured Solutions** – Every solution is implemented with a **clean, efficient, and structured approach**, ensuring clarity and readability.  
+- 📌 **Organized by Study Plan** – Solutions are categorized into separate directories based on their respective study plans, making it easy to navigate.  
+- 📌 **Comprehensive Learning Resource** – This repository serves as a **valuable reference** for anyone looking to practice and master **LeetCode problems systematically**.  
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+## **📂 Study Plans Covered**  
+✅ **Introduction to Pandas** – Master essential Pandas operations, data manipulation, and analysis.  
+✅ **SQL 50** – Strengthen SQL query skills, covering SELECT, JOINS, Aggregates, and more.  
+✅ *More study plans to be added soon...*  
 
- Happy coding! 🚀
+Whether you're a **beginner** looking to get started or an **experienced coder** aiming to refine your skills, this repository provides a structured approach to learning and problem-solving.  
+
+Happy coding! 🚀✨  
